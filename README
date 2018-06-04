@@ -1,0 +1,15 @@
+don't forget   
+
+chmod +x install.sh  
+chmod +x use.sh  
+
+and  
+then  
+
+./install.sh  
+
+
+change use.sh to your information  
+and   
+
+./use.sh
