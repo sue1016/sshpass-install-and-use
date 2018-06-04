@@ -1,7 +1,6 @@
 don't forget   
 
 chmod +x install.sh  
-chmod +x use.sh  
 
 and  
 then  
@@ -11,5 +10,7 @@ then
 
 change use.sh to your information  
 and   
+
+chmod +x use.sh  
 
 ./use.sh
